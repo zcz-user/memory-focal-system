@@ -1,6 +1,6 @@
 # memory-focal-system
 Memory Focal System | 焦距记忆系统
-
+(适用于Openclaw)
 
 ## v1.0.0 - Initial Release | 初始版本
 
